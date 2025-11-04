@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "good job!" << endl;
+    cout << "This is the main branch!" << endl;
     return 0;
 }
