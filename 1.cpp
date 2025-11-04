@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "good job!!!" << endl;
+    cout << "This is the yen branch" << endl;
     return 0;
 }
